@@ -1,9 +1,5 @@
 
 Hola soy User Ape un dev en aprendizaje
-por medio de curso de Udemy en los cuales me gustan 
-tanto front como back y orquestación de Kubernetes Docker
-no se que mnas poner ya me estoy aburriendo de escribir cualquier
-cosa ayuda no se porque sigo esdcribiendo auxilio por favor
 Lorem ipsum dolor sit amet dasscsdaonsectetur adip Lorem ipsum dolor 
 Lorem sdispsum dolor sit adamet coasnsectetur adip Lorem ipsum dolor 
 Lorem ipsudasm dolor ssdasit amet codanssectetur adip Lorem ipsum dolor 
